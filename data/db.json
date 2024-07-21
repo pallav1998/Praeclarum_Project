@@ -1,0 +1,54 @@
+{
+  "eventDetails": [
+    {
+      "id": "0f5e",
+      "eventName": "Event 1",
+      "eventDescription": "Event Description 1",
+      "eventHandledBy": "Event Hand 1",
+      "eventOrganization": "Event Organization 1",
+      "totalSubEvents": 1,
+      "startDate": "2024-07-24T18:30:00.000Z",
+      "endDate": "2024-08-18T18:30:00.000Z"
+    },
+    {
+      "id": "1f5e",
+      "eventName": "Event 2",
+      "eventDescription": "Event Description 2",
+      "eventHandledBy": "Event Hand 2",
+      "eventOrganization": "Event Organization 2",
+      "totalSubEvents": 4,
+      "startDate": "2024-07-24T18:30:00.000Z",
+      "endDate": "2024-08-18T18:30:00.000Z"
+    },
+    {
+      "id": "2f5e",
+      "eventName": "Event 3",
+      "eventDescription": "Event Description 3",
+      "eventHandledBy": "Event Hand 3",
+      "eventOrganization": "Event Organization 3",
+      "totalSubEvents": 2,
+      "startDate": "2024-07-24T18:30:00.000Z",
+      "endDate": "2024-08-18T18:30:00.000Z"
+    },
+    {
+      "id": "f2d8",
+      "eventName": "Event 3",
+      "eventDescription": "Event Description 3",
+      "eventHandledBy": "Event Hand 3",
+      "eventOrganization": "Event Organization 3",
+      "totalSubEvents": 40,
+      "startDate": "2024-07-02T18:30:00.000Z",
+      "endDate": "2024-08-05T18:30:00.000Z"
+    },
+    {
+      "id": "6d3b",
+      "eventName": "Event 4",
+      "eventDescription": "Event Description 4",
+      "eventHandledBy": "Event Hand 4",
+      "eventOrganization": "Event Organization 4",
+      "totalSubEvents": 12,
+      "startDate": "2024-07-16T18:30:00.000Z",
+      "endDate": "2024-08-13T18:30:00.000Z"
+    }
+  ]
+}
