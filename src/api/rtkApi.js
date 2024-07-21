@@ -18,22 +18,6 @@ export const rtkApi = createApi({
       }),
       invalidatesTags: ["EventDetails"],
     }),
-    updateDetails: builder.mutation({
-      query: (details) => ({
-        url: `/eventDetails/${details.id} `,
-        method: "PATCH",
-        body: details,
-      }),
-      invalidatesTags: ["EventDetails"],
-    }),
-    deleteDetails: builder.mutation({
-      query: ({ id }) => ({
-        url: `/eventDetails/${id} `,
-        method: "DELETE",
-        body: id,
-      }),
-      invalidatesTags: ["EventDetails"],
-    }),
   }),
 });
 
