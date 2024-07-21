@@ -1,6 +1,6 @@
 ## Getting Started
 
-First, Install the node modules: npm I
+First, Install the node modules: npm install
 <br/>
 Second, Start the development server: npm run dev
 <br/>
